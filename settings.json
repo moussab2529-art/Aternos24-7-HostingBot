@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Flame bot",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "simpleguy55.aternos.me",
+    "port": 32765,
     "version": "",
     "try-creative": false
   },
